@@ -1,0 +1,7 @@
+def main():
+<<<<<<<- HEAD master
+    print("Start of program>>>>>>>")
+    print("End of program!")
+>>>>>>> improvement-to-the-code
+
+main()
